@@ -1,0 +1,18 @@
+.Home {
+  background-color: aqua;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+.Settings {
+  background-color: yellow;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+.Bar {
+  background-color: pink;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
